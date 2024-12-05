@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Ứng dụng đặt vé tàu</string>
+    <string name="Home">Trang Chủ</string>
+    <string name="Booking">Vé Tàu</string>
+    <string name="Inbox">Tư vấn</string>
+    <string name="Profile">Thông tin</string>
+
+    <string name="txtWelcome">Xin chào!</string>
+    <string name="txtForget">Quên mật khẩu?</string>
+    <string name="notifyRegister">Đăng ký tài khoản?</string>
+    <string name="txtRegister">Đăng ký</string>
+
+    <string name="notifyLogin">Tôi đã có tài khoản</string>
+    <string name="txtLogin">Đăng nhập</string>
+    <string name="btnLogin">Đăng nhập</string>
+    <string name="btnRegister">Tạo tài khoản</string>
+
+    <string name="txtReset">Đặt lại mật khẩu</string>
+    <string name="btnNext">Tiếp tục</string>
+    <string name="btnBack">Quay lai</string>
+
+    <string name="aboutUs">Trần Quốc Bảo - Lê Nguyễn Viết Hiệp</string>
+    <string name="email">Email</string>
+    <string name="confirm_email">Xác nhận Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="remember_me">Ghi nhớ Email</string>
+    <string name="reset_password">Đặt lại mật khẩu</string>
+    <string name="confirm_password">Nhập lại mật khẩu</string>
+    <string name="new_password">Mật khẩu mới</string>
+    <string name="reset">Đặt lại</string>
+    <string name="find_train">Tìm kiếm</string>
+    <string name="home_title">Đặt vé tàu</string>
+    <string name="start">Xuất phát</string>
+    <string name="destination">Đích đến</string>
+    <string name="passenger">Khách hàng</string>
+    <string name="type">Loại</string>
+    <string name="departure">Ngày khởi hành</string>
+    <string name="pick_travel_date">Chọn ngày</string>
+    <string name="hi">Xin chào,</string>
+    <string name="time">Thời gian</string>
+    <string name="btn_book_ticket">Đặt vé</string>
+    <string name="price">Giá</string>
+    <string name="back">Quay lại</string>
+    <string name="change_password">Thay đổi mật khẩu</string>
+    <string name="log_out">Đăng Xuất</string>
+    <string name="change_language">Thay đổi ngôn ngữ</string>
+    <string name="send_message">Gửi</string>
+    <string name="title">Tiêu Đề (Tùy Chọn)</string>
+    <string name="optional">(Tùy Chọn)</string>
+    <string name="view">Xem vé</string>
+
+    <string name="user_name">Họ tên</string>
+    <string name="user_avatar">Cập nhật ảnh đại diện</string>
+    <string name="user_choose_avatar">Chọn ảnh</string>
+    <string name="upload_avatar">Cập nhật</string>
+    <string name="user_email">Email</string>
+    <string name="user_phone">Số điện thoại</string>
+    <string name="user_point">Điểm tích lũy</string>
+    <string name="user_save_profile">Cập nhật</string>
+    <string name="user_update_profile">Cập nhật thông tin</string>
+    <string name="profile_avatar">Ảnh đại diện</string>
+    <string name="language">Việt Nam</string>
+    <string name="time_to_time">-</string>
+    <string name="select_your_train">Chọn chuyến tàu của bạn!</string>
+
+    <string name="how_to_use_ticket">Làm thế nào để tôi có thể sử dụng vé tàu?</string>
+    <string name="how_to_book_ticket">Làm thế nào để tôi có thể mua vé tàu?</string>
+    <string name="how_to_change_language">Làm thế nào để tôi có thể thay đổi ngôn ngữ của ứng dụng?</string>
+    <string name="how_to_update_profile">Làm thế nào để tôi có thể cập nhật thông tin cá nhân?</string>
+
+    <string name="answer_use_ticket">Để sử dụng vé tàu:\n
+        Bước 1: Chọn vào vé muốn sử dụng\n
+        Bước 2: Chọn dấu 3 chấm trên góc phải
+        Bước 3: Chọn mã QR
+    </string>
+    <string name="answer_book_ticket">Để đặt vé:\n
+        Bước 1: Chọn trang chủ\n
+        Bước 2: Chọn điểm đi, điểm đến và ngày xuất phát\n
+        Bước 3: Chọn "Tìm chuyến tàu"\n
+        Bước 4: Chọn vé phù hợp\n
+        Bước 5: Thanh toán theo chỉ dẫn và xác nhận
+    </string>    <string name="answer_change_language">Để thay đổi ngôn ngữ của ứng dụng:\n
+    Bước 1: Di chuyển tới mục Thông tin\n
+    Bước 2: Chọn nút "Thay đổi ngôn ngữ"\n
+    Bước 3: Chọn ngôn ngữ muốn chuyển đổi. Ngôn ngữ của ứng dụng sẽ thay đổi
+    </string>
+    <string name="answer_update_profile">Để cập nhật thông tin cá nhân:\n
+    Bước 1: Di chuyển tới mục Thông tin\n
+    Bước 2: Chọn nút "Cập nhật thông tin"\n
+    Bước 3: Thay đổi tên và số điện thoại phù hợp\n
+    Bước 4: Chọn nút "Cập nhât"
+    </string>
+
+    <string name="pay_internet_banking">Thanh Toán Ngân Hàng</string>
+    <string name="pay_cash">Tiền mặt</string>
+    <string name="pay">Thanh toán</string>
+    <string name="confirm">Xac nhận</string>
+
+    <string name="internet_bankingDetails">Thông Tin Chuyển Khoản</string>
+    <string name="internet_details">Chuyển khoản theo thông tin sau:</string>
+    <string name="internet_companyName">QBao_VHip Train</string>
+    <string name="internet_bankName">VVBank</string>
+    <string name="internet_bankAccount">0817415159</string>
+    <string name="internet_transferContent">Họ tên + Số điện thoại + Mã tàu lửa</string>
+    <string name="departureTime">Thời gian xuất phát: </string>
+    <string name="shareTicket">Chia sẻ vé</string>
+    <string name="ticketCode">Mã vé</string>
+
+    <string name="companyName">Tên công ty: </string>
+    <string name="bankName">Tên ngân hàng: </string>
+    <string name="accountNumber">Số tài khoản: </string>
+    <string name="prices">Giá: </string>
+    <string name="content">Nội dung chuyển khoản: </string>
+
+    <string name="cash_paymentDetails">Thông tin thanh toán tiền mặt</string>
+    <string name="cash_details">Làm theo thứ tự sau: </string>
+    <string name="cash_companyName">Đến ga tàu</string>
+    <string name="cash_bankName">Đến quầy thu ngân</string>
+    <string name="cash_bankAccount">Đưa vé viện tử</string>
+    <string name="cash_transferContent">Thanh toán</string>
+    <string name="ticket_id">Mã vé: </string>
+    <string name="train_ticket">Thông tin chi tiết</string>
+    <string name="train_booking_code">Mã Đặt Vé</string>
+    <string name="economy">Hạng phổ thông</string>
+    <string name="total_price">Tổng tiền</string>
+    <string name="delete_ticket">Hủy vé</string>
+    <string name="ticket_details">Chi tiết vé</string>
+    <string name="return_ticket">Hoàn vé</string>
+    <string name="share_ticket">Chia sẻ vé</string>
+    <string name="qr_code">Mã QR</string>
+    <string name="cancel">Hủy</string>
+    <string name="options">Tùy chọn</string>
+    <string name="your_tickets">Vé của bạn</string>
+    <string name="loading">Đang tải …</string>
+    <string name="error_place">Điểm khởi hành và điểm đến không thể giống nhau</string>
+    <string name="vui_l_ng_ch_n_ng_y_kh_c_ho_c_s_a_l_i_t_m_ki_m">Vui lòng chọn ngày khác hoặc sửa lại tìm kiếm</string>
+    <string name="kh_ng_c_chuy_n_t_u">Không có chuyến tàu</string>
+
+    <string name="cancel_ticket">Hủy vé</string>
+    <string name="cancel_ticket_confirm">Hủy vé sẽ không được hoàn tiền, bạn muốn hủy vé chứ?</string>
+    <string name="cancel_yes">Đồng ý</string>
+    <string name="cancel_no">Từ chối</string>
+    <string name="email_alert">Nhập lại email</string>
+    <string name="pwd_alert">Nhận lại mật khẩu</string>
+    <string name="retry">Thử lại</string>
+    <string name="error">Email hoặc mật khẩu không hợp lệ. Vui lòng nhập lại.</string>
+    <string name="verify_email">Email chưa được xác thực. Vui lòng xác thực email.</string>
+    <string name="log_out_confirm">Bạn có chắc chắn muốn đăng xuất?</string>
+    <string name="select_language">Ngôn ngữ</string>
+    <string name="eng">Tiếng Anh</string>
+    <string name="vi">Việt Nam</string>
+    <string name="hanoi">Hà Nội</string>
+    <string name="saigon">Sài Gòn</string>
+    <string name="danang">Đà Nẵng</string>
+    <string name="nhatrang">Nha Trang</string>
+    <string name="hue">Huế</string>
+    <string name="create_an_account">Tạo tài khoản</string>
+    <string name="error_name">Vui lòng nhập tên</string>
+    <string name="error_email">Vui lòng nhập email</string>
+    <string name="error_phone">Vui lòng nhập số điện thoại</string>
+    <string name="error_pwd">Vui lòng nhập mật khẩu</string>
+    <string name="error_cf_pwd">Mật khẩu xác nhận không khớp</string>
+    <string name="success_verify">Đăng kí thành công. Email xác nhận đã được gửi.</string>
+    <string name="fail_verify">Gửi email xác nhận thất bại</string>
+    <string name="fail_register">Đăng kí thất bại</string>
+    <string name="existed_email">Email đã được sử dụng</string>
+    <string name="invalid_format_email">Invalid email format</string>
+    <string name="verify_cf_email">Đường link đổi mật khẩu đã được gửi tới email của bạn</string>
+    <string name="fail_cf_email">Gửi link thất bại</string>
+    <string name="invalid_email">Email không tồn tại</string>
+    <string name="input_information">Vui lòng nhập thông tin</string>
+    <string name="close">Đóng</string>
+
+
+</resources>

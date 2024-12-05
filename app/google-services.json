@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106446036960",
+    "project_id": "bus-ticket-booking-77649",
+    "storage_bucket": "bus-ticket-booking-77649.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106446036960:android:833866b1f8fa7cd33e5585",
+        "android_client_info": {
+          "package_name": "com.java.trainticketbookingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAavLs5GwqZC4-4-QaCfyy84Lyd_iIbMQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

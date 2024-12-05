@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Bus Ticket Booking</string>
+    <string name="Home">Home</string>
+    <string name="Booking">Booking</string>
+    <string name="Inbox">Inbox</string>
+    <string name="Profile">Profile</string>
+
+    <string name="txtWelcome">Welcome!</string>
+    <string name="txtForget">Forgot password?</string>
+    <string name="notifyRegister">Do not have an account?</string>
+    <string name="txtRegister">Register Now</string>
+
+    <string name="notifyLogin">I Already Have an Account</string>
+    <string name="txtLogin">Login Now</string>
+    <string name="btnLogin">Login</string>
+    <string name="btnRegister">Create Account</string>
+
+    <string name="txtReset">Reset Password</string>
+    <string name="btnNext">Next</string>
+    <string name="btnBack">Back</string>
+
+    <string name="aboutUs">Bus ticket booking system</string>
+    <string name="email">Email</string>
+    <string name="confirm_email">Confirm Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="new_password">New password</string>
+    <string name="reset">Reset</string>
+    <string name="find_train">Find Bus</string>
+    <string name="home_title">Book a bus ticket</string>
+    <string name="start">From</string>
+    <string name="destination">To</string>
+    <string name="passenger">Passenger</string>
+    <string name="type">Type</string>
+    <string name="departure">Departure</string>
+    <string name="pick_travel_date">Pick Travel Date</string>
+    <string name="hi">Welcome,</string>
+    <string name="time">Trip Time</string>
+    <string name="btn_book_ticket">Book</string>
+    <string name="price">Price</string>
+    <string name="back">Back</string>
+    <string name="change_password">Change Password</string>
+    <string name="log_out">Log Out</string>
+    <string name="change_language">Change Language</string>
+    <string name="send_message">Send</string>
+    <string name="title">Title (Optional)</string>
+    <string name="optional">(Optional)</string>
+    <string name="view">View</string>
+
+
+    <string name="user_name">Full name</string>
+    <string name="user_avatar">Upload Avatar</string>
+    <string name="user_choose_avatar">Choose Image</string>
+    <string name="upload_avatar">Upload</string>
+    <string name="user_email">Email</string>
+    <string name="user_phone">Phone number</string>
+    <string name="user_point">Point</string>
+    <string name="user_save_profile">Save</string>
+    <string name="user_update_profile">Update Profile</string>
+    <string name="profile_avatar">Profile Avatar</string>
+    <string name="language">English</string>
+    <string name="time_to_time">-</string>
+    <string name="select_your_train">Select your bus!</string>
+
+    <string name="how_to_use_ticket">How can I use the ticket?</string>
+    <string name="how_to_book_ticket">How can I book a ticket?</string>
+    <string name="how_to_change_language">How can I change the app language?</string>
+    <string name="how_to_update_profile">How can I update the profile?</string>
+
+    <string name="answer_use_ticket">To use the ticket:\n
+        Step1: Click on your ticket\n
+        Step2: Click "3 dots" symbol on the right corner\n
+        Step3: Click QR Code
+    </string>
+    <string name="answer_book_ticket">To book a ticket:\n
+        Step1: Choose Home\n
+        Step2: Select your start, destination and time travel\n
+        Step3: Click "Find bus"\n
+        Step4: Choose suitable ticket\n
+        Step5: Payment then confirm the ticket
+    </string>
+    <string name="answer_change_language">To change the app language:\n
+        Step1: Navigate to Profile\n
+        Step2: Click on "Change Language" button. Your app language will be changed</string>
+    <string name="answer_update_profile">To update your profile:
+    Step1: Navigate to Profile\n
+    Step2: Click on "Update Profile" button\n
+    Step3: Change your Fullname and Phonenumber\n
+    Step4: Click on "Update" button
+    </string>
+
+    <string name="pay_internet_banking">Internet Banking</string>
+    <string name="pay_cash">Cash</string>
+    <string name="pay">Pay</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="internet_bankingDetails">Internet Banking Details</string>
+    <string name="internet_details">Transfer funds according to the following information:</string>
+    <string name="internet_companyName">Bus Ticket Book</string>
+    <string name="internet_bankName">VVBank</string>
+    <string name="internet_bankAccount">0817415159</string>
+    <string name="internet_transferContent">Fullname + Phonenumber + TrainID</string>
+    <string name="departureTime">Departure time: </string>
+    <string name="shareTicket">Share Ticket </string>
+    <string name="ticketCode">Ticket Code </string>
+
+
+    <string name="companyName">Company Name: </string>
+    <string name="bankName">Bank Name: </string>
+    <string name="accountNumber">Account Number: </string>
+    <string name="prices">Price: </string>
+    <string name="content">Content: </string>
+
+    <string name="cash_paymentDetails">Cash Payment Information</string>
+    <string name="cash_details">cash details:</string>
+    <string name="cash_companyName">Go to the bus station</string>
+    <string name="cash_bankName">Go to cashier</string>
+    <string name="cash_bankAccount">Show the ticket</string>
+    <string name="cash_transferContent">Pay by cash</string>
+    <string name="ticket_id">Ticket ID: </string>
+    <string name="train_ticket">Bus Ticket Details</string>
+    <string name="train_booking_code">Bus Booking Code</string>
+    <string name="economy">Economy</string>
+    <string name="total_price">Total price</string>
+    <string name="delete_ticket">Cancel Ticket</string>
+    <string name="ticket_details">Ticket Details</string>
+    <string name="return_ticket">Return ticket</string>
+    <string name="share_ticket">Share ticket</string>
+    <string name="qr_code">QR code</string>
+    <string name="cancel">Cancel</string>
+    <string name="options">Option</string>
+    <string name="your_tickets">Your tickets</string>
+    <string name="loading">Loading …</string>
+    <string name="error_place">Departure and destination cannot be the same.</string>
+    <string name="vui_l_ng_ch_n_ng_y_kh_c_ho_c_s_a_l_i_t_m_ki_m">Please select another date or revise your search.</string>
+    <string name="kh_ng_c_chuy_n_t_u">There are no buses</string>
+
+    <string name="cancel_ticket">Cancel Ticket</string>
+    <string name="cancel_ticket_confirm">Canceling the ticket will not refund money. Are you sure you want to cancel?</string>
+    <string name="cancel_yes">Yes</string>
+    <string name="cancel_no">No</string>
+    <string name="email_alert">Please enter your email.</string>
+    <string name="pwd_alert">Please enter your password.</string>
+    <string name="retry">Retry</string>
+    <string name="error">Wrong Email or Password, please try again.</string>
+    <string name="verify_email">Email is not verified. Please verify your email.</string>
+    <string name="log_out_confirm">Are you sure you want to sign out?</string>
+    <string name="select_language">Select Language</string>
+    <string name="eng">English</string>
+    <string name="vi">Vietnamese</string>
+    <string name="hanoi">Delhi</string>
+    <string name="saigon">Mumbai</string>
+    <string name="danang">Punjab</string>
+    <string name="nhatrang">Pune</string>
+    <string name="hue">Chennai</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="error_name">Please enter your name</string>
+    <string name="error_email">Please enter your email</string>
+    <string name="error_phone">Please enter your phone number</string>
+    <string name="error_pwd">Please enter your password</string>
+    <string name="error_cf_pwd">Password is not correct</string>
+    <string name="success_verify">Registration successful. Verification email has been sent.</string>
+    <string name="fail_verify">Failed to send verification email</string>
+    <string name="fail_register">Registration failed</string>
+    <string name="existed_email">Email has been used</string>
+    <string name="invalid_format_email">Invalid email format</string>
+    <string name="verify_cf_email">Verification link has been sent to your email</string>
+    <string name="fail_cf_email">Failed to send verification link</string>
+    <string name="invalid_email">Email does not exist</string>
+    <string name="input_information">Please fill the information</string>
+    <string name="service">A/C Sleeper (2+2)</string>
+    <string name="close">Close</string>
+
+</resources>
